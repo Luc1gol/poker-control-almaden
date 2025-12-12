@@ -1,0 +1,5 @@
+{
+  "name": "Poker Control",
+  "description": "A comprehensive poker home game management application featuring variable buy-ins, house fee calculation, rebuy management, and automated cashout ranking logic with a premium aesthetic.",
+  "requestFramePermissions": []
+}
